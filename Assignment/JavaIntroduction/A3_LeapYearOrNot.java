@@ -1,4 +1,4 @@
-package com.assignment;
+package com.assigment;
 /*
  * Write a Java program that takes a year from user and print whether that year is a leap year or not.
  */

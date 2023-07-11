@@ -1,4 +1,4 @@
-package com.assignment;
+package com.assigment;
 /*
  * Java program to Take three numbers from the user and print the greatest number.
  */
